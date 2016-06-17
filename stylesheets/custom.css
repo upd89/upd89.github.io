@@ -16,3 +16,7 @@
 .centerImg img {
   max-width: 100%;
 }
+
+#project_title {
+    margin-left: 170px;
+}
